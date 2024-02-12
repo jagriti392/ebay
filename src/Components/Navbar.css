@@ -1,0 +1,162 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Hind Siliguri',sans-serif;
+}
+.topber{
+    height:30px;
+    width:98%;
+    margin:auto;
+    display:flex;
+    border-bottom: 1px groove;
+    align-items:center;
+    justify-content:space-evenly;
+    font-size:0.9rem;
+}
+.paraspace{
+    width:45%;
+
+}
+.topicon1{
+    font-size:1.1rem;
+}
+.topicon2{
+    font-size:1rem;
+}
+
+/* ---------top one ends here --------*/
+
+.headber{
+    height:75px;
+    width:98%;
+    margin:auto;
+    background-color: rgb(255,253,259);
+    border-bottom:1px groove rgb(201,201,249);
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+}
+
+.headlogo{
+    
+    height:100px;
+    padding:5px;
+    margin-bottom: 2rem;
+
+}
+.head2{
+    display:flex;
+    align-items:center;
+    justify-content: space-center;
+    height:43px;
+    width:90px;
+    color:rgb (90,90,90);
+font-size:1rem;
+font-weight:300;
+letter-spacing:-1px;
+}
+
+.head2icon{
+    font-size:1rem;
+    width:20px;
+    text-align:right;
+}
+.head2.ct{
+    margin-top:-10px;
+
+}
+
+.head3{
+    display:flex;
+    height:40px;
+    width:820px;
+    align-items: center;
+    border:2px solid black;
+}
+.searchbox{
+    height:35px;
+    width:100%;
+    border:none;
+    outline:none;
+    font-size:1rem;
+    border-right:2px groove;
+}
+
+.allcat{
+    width:200px;
+    text-align:center;
+    font-size:0.9rem;
+}
+button{
+    width:180px;
+    height:40px;
+    background-color:rgb(35,138,255);
+    color:white;
+    font-size:1rem;
+    border:none;
+    outline:none;
+    
+}
+
+.head5{
+    width:100px;
+    padding-right:10px;
+}
+.head5 p{
+    font-size:0.8rem;
+    padding-left:3px;
+}
+
+
+
+.navbar-links > ul{
+    height:35px;
+    width:98%;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    gap:35px;
+    font-size:0.9rem;
+    padding-left:45px;
+display:grid;
+grid-template-columns: repeat(12, 1fr);
+justify-content: space-between;
+font-size:small;
+}
+.navbar-links{
+    text-decoration:none;
+    color:black;
+}
+
+
+
+
+.right1{
+    margin-left:250px;
+    margin-top:-290px;
+}
+.right{
+    margin-left:250px;
+    margin-top:-320px;
+}
+.rightf{
+    margin-left:250px;
+    margin-top:-290px;
+} 
+.rights{
+    margin-left:250px;
+    margin-top:-257px;
+
+}
+.righth{
+    margin-top:-320px; 
+    margin-left:250px; 
+}
+.righti{
+    margin-top:-311px; 
+    margin-left:250px;  
+}
+
+
+
